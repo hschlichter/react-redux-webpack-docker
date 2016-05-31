@@ -1,0 +1,27 @@
+@import 'settings';
+@import 'foundation';
+
+@include foundation-everything;
+@include foundation-flex-grid;
+
+body {
+}
+
+.button {
+	margin-right: 5px;
+}
+
+.row {
+	margin-top: 10px;
+}
+
+.title-header {
+	color: #ffffff;
+	background: #444444;
+}
+
+hr {
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+
